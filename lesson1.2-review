@@ -1,0 +1,4 @@
+Good work, demonstrated proper use of components.
+
+Suggestions. Variable name within the map() function should have a well descriptive name like list.map(function(todoItem){Retrun(...)}). for 
+arrow function list.map((todoItem)=>{...})
